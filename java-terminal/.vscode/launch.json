@@ -1,0 +1,54 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch SomarDoisNumeros",
+            "request": "launch",
+            "mainClass": "SomarDoisNumeros",
+            "projectName": "java-terminal_ff7f817f"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExecicioControleDeFluxo",
+            "request": "launch",
+            "mainClass": "ExecicioControleDeFluxo",
+            "projectName": "java-terminal_ff7f817f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch AboutMe",
+            "request": "launch",
+            "mainClass": "AboutMe",
+            "projectName": "java-terminal_ff7f817f"
+        },
+        {
+            "type": "java",
+            "name": "Launch MinhaClasse",
+            "request": "launch",
+            "mainClass": "MinhaClasse",
+            "projectName": "java-terminal_ff7f817f"
+        },
+        {
+            "type": "java",
+            "name": "Launch AboutMe",
+            "request": "launch",
+            "mainClass": "AboutMe",
+            "args": [
+                "Sergio",
+                "Abreu",
+                "35",
+                "1.69"
+            ]
+        }
+    ]
+}
